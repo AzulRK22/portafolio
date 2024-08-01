@@ -11,6 +11,12 @@ Welcome to Azul Kuri's personal portfolio website. This website showcases Azul's
 - [Contact](#contact)
 - [Technologies Used](#technologies-used)
 
+## Prev of my site
+![Presentación](assets/readme/presentacion.png)
+![Habilidades](assets/readme/skills.png)
+![Proyectos](assets/readme/projects.png)
+![Testimonios](assets/readme/testi.png)
+
 ## Introduction
 
 Hello! I'm Azul Grisel Ramirez Kuri, a dedicated and passionate software engineer with a focus on AI, mobile development, and front-end technologies. I have extensive experience in iOS and Android development, utilizing Swift, Kotlin, and Java to create intuitive and engaging mobile applications. My skill set also includes front-end technologies like React and JavaScript, which I use to develop seamless and responsive web applications.
