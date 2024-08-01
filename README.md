@@ -1,9 +1,3 @@
-Desplegado [(https://portafolio-azulrk-2024.vercel.app/)]
-
-El presente proyecto es un portafolio desarrollado para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
-Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap utilizando además bibliotecas externas.
-La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
-
 # Azul Kuri's Personal Portfolio
 
 Welcome to Azul Kuri's personal portfolio website. This website showcases Azul's skills, projects, and testimonials from clients and colleagues. Explore and feel free to reach out!
@@ -16,13 +10,6 @@ Welcome to Azul Kuri's personal portfolio website. This website showcases Azul's
 - [Testimonials](#testimonials)
 - [Contact](#contact)
 - [Technologies Used](#technologies-used)
-
-## Prev of my site
-![Presentación](assets/readme/presentacion.png)
-![Habilidades](assets/readme/skills.png)
-![Proyectos](assets/readme/projects.png)
-![Testimonios](assets/readme/testi.png)
-
 
 ## Introduction
 
@@ -84,3 +71,4 @@ Follow me on:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
