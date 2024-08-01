@@ -12,10 +12,10 @@ Welcome to Azul Kuri's personal portfolio website. This website showcases Azul's
 - [Technologies Used](#technologies-used)
 
 ## Prev of my site
-![Presentación](assets/readme/presentacion.png)
-![Habilidades](assets/readme/skills.png)
-![Proyectos](assets/readme/projects.png)
-![Testimonios](assets/readme/testi.png)
+![Presentación](readme/presentacion.png)
+![Habilidades](readme/skills.png)
+![Proyectos](readme/projects.png)
+![Testimonios](readme/testi.png)
 
 ## Introduction
 
